@@ -16,11 +16,17 @@ Program/process design and implementation that offers multiple avenues for acces
 ### Africa
 For blog posts related to Carpentries' work in Africa.
 
+### Artificial Intelligence
+For blog posts about artificial intellugence (AI) and its tools, including but not limited to large language models (LLMs). 
+
 ### Assessment
 Efforts to analyze and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations.
 
 ### Australasia
 For blog posts related to Carpentries' work in Australasia.
+
+### Board of Directors
+For blog posts about updates and announcements from The Carpentries Board of Directors, the highest governing body of The Carpentries non-profit organisation.
 
 ### Books
 For use in blog posts about published books directly about or written by members of The Carpentries community.
@@ -61,7 +67,7 @@ Related to creation of new lessons or significant updates of existing lessons.
 ### Data Carpentry
 Related to the Data Carpentry lesson program of The Carpentries.
 
-### Equity and Inclusion
+### Equity and Inclusion 
 Resources and information regarding our equity, inclusion, and accessibility roadmap. Our goal is to attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion.
 
 ### Events
@@ -74,7 +80,7 @@ Comments on experience from Instructors, Hosts, Members, and other community mem
 For blog posts related to [Glosorio](https://glosario.carpentries.org/), The Carpentries' multilingual glossary of data science terms. 
 
 ### Governance
-For blog posts related to the governance  of The Carpentries as an organisation.
+For blog posts related to organisational governance, including board leadership, policy development, and decisions impacting the organisation.
 
 ### Grants 	
 Announcements for grants funding Carpentries activities.
@@ -142,8 +148,11 @@ Workshops that are solely online, experience teaching an online workshop, sharin
 ### Pilot Workshops 	
 Blog posts related to piloting of new lessons.
 
+### Python
+For blog posts highlighting teaching recommendations of the Python programming language, or the use of the Python programming language in our activities.
+
 ### R 	
-Posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities.
+For blog posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities.
 
 ### Reports 	
 For blog posts related to reports released by The Carpentries core team. This includes annual and budget reports.
